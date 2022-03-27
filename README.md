@@ -18,6 +18,7 @@ Vagy	 http://localhost/Develery/index.php
 
 7. Az adatbázis elérése:
 		http://localhost:8080/phpmyadmin/
-8. Ott develery adatbázis, uzenetek tábla.
+8. A mellékelt .sql fájlt importáld.
+9. Ott develery adatbázis, uzenetek tábla.
 
 Remélem sikerült a beüzemelés, illetve megfelelőnek talátad a weboldalt!
